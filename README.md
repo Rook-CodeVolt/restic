@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **CodeVolt-owned fork.** This repository is a fork of [`restic/restic`](https://github.com/restic/restic), retained by CodeVolt only for bounded upstream contribution and evaluation work. Project governance, releases, support, and maintenance remain with the upstream maintainers. The upstream README is preserved below.
+
 [![Documentation](https://readthedocs.org/projects/restic/badge/?version=latest)](https://restic.readthedocs.io/en/latest/?badge=latest)
 [![Build Status](https://github.com/restic/restic/workflows/test/badge.svg)](https://github.com/restic/restic/actions?query=workflow%3Atest)
 [![Go Report Card](https://goreportcard.com/badge/github.com/restic/restic)](https://goreportcard.com/report/github.com/restic/restic)
